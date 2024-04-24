@@ -1,6 +1,6 @@
 <h1>Máster en Desarrollo FullStack</h1>
 
-<h2>Repositorio creado para el módulo de JS para Máster de Desarrollo FullStack</h2>
+<h2>Repositorio creado para el módulo de Git y Github para Máster de Desarrollo FullStack</h2>
 
 <img width="450px" src="00_indice_modulo/Portada.jpg" alt="Portada del módulo de JS" />
 
