@@ -2,7 +2,7 @@
 
 <h2>Repositorio creado para el módulo de JS para Máster de Desarrollo FullStack</h2>
 
-<img width="450px" src="00_indice_modulo/portada.jpg" alt="Portada del módulo de JS" />
+<img width="450px" src="00_indice_modulo/Portada.jpg" alt="Portada del módulo de JS" />
 
 <h4>Material de las clases</h4>
 <ul>
